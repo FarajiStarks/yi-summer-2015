@@ -110,7 +110,7 @@ post(tweet);
 
  /* ========================================================= */
  // Write your code here
-/*
+
 function listTweets(arr) {
   var tweets = $('#tweets');
 
@@ -132,15 +132,15 @@ function makeTweet() {
    console.log('I am a new tweet: ', tweet);
    return tweet;
 }
-*/
+
 
 /* ========================================================= */
  // add event listeners
 
-/*
+
 $('#tweet-form').submit(function(event) {
     post(makeTweet());
     event.preventDefault();
 });
 
-*/
+
